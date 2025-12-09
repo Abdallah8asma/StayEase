@@ -31,57 +31,36 @@ Le projet est composé de :
 
 ## 🖼️ Aperçu de l’application
 
-Crée un dossier nommé **images** à la racine du projet et ajoute tes captures d’écran dedans.
-
-Structure attendue :
-
-```text
-project-root/
- ├── images/
- │   ├── dashboard.png
- │   ├── login.png
- │   └── reservations.png
-```
 
 ### 🔐 Page Login
-
 ![Login](images/login.png)
 
 ### 📊 Dashboard Admin
-
-![Dashboard](images/Capture d'écran 2025-12-08 171252.png)
+![Dashboard](images/dashboard.png)
 
 ### 📅 Gestion des Réservations
+![Réservations](images/reservations.png)
 
-![Reservations](images/reservations.png)
+### 📅 SAST : SonarQube
+![SonarQube](images/sonarqube.png)
 
-  ### 📅 SAST : SonarQube
+### 📅 Trivy
+![Trivy](images/trivy.png)
 
-![SonarQube](images/Capture d'écran 2025-12-08 171406.png)
+### 📅 Amazon ECR
+![Amazon ECR](images/ecr.png)
 
-  ### 📅 Trivy
+### 📅 Kubernetes
+![Kubernetes](images/kubernetes.png)
 
-![Trivy](images/Capture d'écran 2025-12-08 173215.png)
+### 📅 Pipeline Jenkins
+![Jenkins](images/jenkins.png)
 
-  ### 📅 Amazon ECR
+### 📅 Prometheus
+![Prometheus](images/prometheus.png)
 
-![Amazon ECR](images/Capture d'écran 2025-12-08 171450.png)
-
-  ### 📅 Kubernetes
-
-![Kubernetes](images/Capture d'écran 2025-12-08 172730.png)
-
-  ### 📅 Pipeline jenkins
-
-![jenkins](images/Capture d'écran 2025-12-08 173142.png)
-
-  ### 📅 Prometheus
-
-![Prometheus](images/Capture d'écran 2025-12-08 171612.png)
-
-  ### 📅 Grafana
-
-![Grafana](images/Capture d'écran 2025-12-08 171922.png)
+### 📅 Grafana
+![Grafana](images/grafana.png)
 
 
 ---
