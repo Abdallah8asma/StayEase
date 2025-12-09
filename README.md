@@ -32,14 +32,11 @@ Le projet est composé de :
 ## 🖼️ Aperçu de l’application
 
 
-### 🔐 Page Login
-![Login](images/login.png)
 
 ### 📊 Dashboard Admin
 ![Dashboard](images/dashboard.png)
 
-### 📅 Gestion des Réservations
-![Réservations](images/reservations.png)
+
 
 ### 📅 SAST : SonarQube
 ![SonarQube](images/sonarqube.png)
