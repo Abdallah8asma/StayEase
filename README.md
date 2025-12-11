@@ -37,6 +37,17 @@ Le projet est composé de :
 ![Dashboard](images/dashboard.png)
 
 
+### 📊 PLaces List
+![Dashboard](images/places_list.png)
+
+
+### 📊 Place Stats
+![Dashboard](images/place_stats.png)
+
+
+### 📊 Users List
+![Dashboard](images/users_list.png)
+
 
 ### 📅 SAST : SonarQube
 ![SonarQube](images/sonarqube.png)
